@@ -1,0 +1,27 @@
+.box{
+  height: 200px;
+  padding: 20px;
+  margin: 50px;
+  border-radius: 20px ;
+  box-shadow: 2px 2px 2px rgb(233, 229, 229),4px 4px 2px rgb(218, 214, 214);
+  background-color: rgb(21, 22, 22);
+  text-align: center;
+  color: rgb(252, 248, 248);
+}
+
+.dayLight{
+  background-color: rgb(234, 238, 14);
+}
+
+.dark{
+  color: rgb(34, 33, 33);
+}
+
+.btn{
+  height: 40px;
+  width: 100px;
+  border-radius: 20px;
+  background-color: rgb(102, 39, 131);
+  color: rgb(185, 182, 182);
+  font-weight: bold;
+}
